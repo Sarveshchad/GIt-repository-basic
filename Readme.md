@@ -1,4 +1,7 @@
-Community class room op
-Sarvesh nath
-that this community is amazing.
-Readme and etc
+#git -essentials
+##Deployment-notes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada aliquam aliquet. Quisque tincidunt semper justo, tempor dignissim tortor rhoncus eget. Praesent auctor iaculis tellus, quis ultricies magna consectetur vitae. Aliquam consectetur justo lacus, hendrerit viverra mauris pretium ac. Curabitur non risus nec felis consectetur molestie vitae quis ligula. Etiam et ligula dui. Sed vulputate est non nisi sagittis tristique nec eu neque. Nulla vitae imperdiet ligula. Ut vitae augue vulputate dui semper luctus. Donec ut enim nunc. Vivamus bibendum tempor mi ut volutpat. Vivamus ut pretium mi, sit amet scelerisque justo.
+## Staging notes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada aliquam aliquet. Quisque tincidunt semper justo, tempor dignissim tortor rhoncus eget. Praesent auctor iaculis tellus, quis ultricies magna consectetur vitae. Aliquam consectetur justo lacus, hendrerit viverra mauris pretium ac. Curabitur non risus nec felis consectetur molestie vitae quis ligula. Etiam et ligula dui. Sed vulputate est non nisi sagittis tristique nec eu neque. Nulla vitae imperdiet ligula. Ut vitae augue vulputate dui semper luctus. Donec ut enim nunc. Vivamus bibendum tempor mi ut volutpat. Vivamus ut pretium mi, sit amet scelerisque justo.
+##How to use the repo Shorts
+Maecenas commodo nisi urna, nec pulvinar elit aliquam sed. Nunc ac nibh justo. Sed id tortor nisi. Mauris in elementum velit. Proin fermentum ornare malesuada. Proin dictum, metus ac sodales tincidunt, nunc leo viverra neque, vitae luctus lorem tortor ac odio. Morbi eget turpis nec velit ullamcorper semper. Ut purus nisi, maximus sed libero nec, maximus volutpat diam. Suspendisse efficitur blandit lacus in ultrices. Praesent sollicitudin commodo massa, ut ultrices nunc congue quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.

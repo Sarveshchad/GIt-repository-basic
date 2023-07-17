@@ -1,5 +1,5 @@
 Line 1 by github
 Line 2 by github
-Line three  by github(edited)
+Line 3 by github
 line 4 by github
 line 5 by github
